@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ferns-fitness/static/css/main.504a6195.chunk.css",
-    "main.js": "/ferns-fitness/static/js/main.71463999.chunk.js",
-    "main.js.map": "/ferns-fitness/static/js/main.71463999.chunk.js.map",
+    "main.css": "/ferns-fitness/static/css/main.06e0fae9.chunk.css",
+    "main.js": "/ferns-fitness/static/js/main.292b189f.chunk.js",
+    "main.js.map": "/ferns-fitness/static/js/main.292b189f.chunk.js.map",
     "runtime-main.js": "/ferns-fitness/static/js/runtime-main.76a06845.js",
     "runtime-main.js.map": "/ferns-fitness/static/js/runtime-main.76a06845.js.map",
     "static/js/2.331282ed.chunk.js": "/ferns-fitness/static/js/2.331282ed.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.8ef0e48b.chunk.js": "/ferns-fitness/static/js/3.8ef0e48b.chunk.js",
     "static/js/3.8ef0e48b.chunk.js.map": "/ferns-fitness/static/js/3.8ef0e48b.chunk.js.map",
     "index.html": "/ferns-fitness/index.html",
-    "static/css/main.504a6195.chunk.css.map": "/ferns-fitness/static/css/main.504a6195.chunk.css.map",
+    "static/css/main.06e0fae9.chunk.css.map": "/ferns-fitness/static/css/main.06e0fae9.chunk.css.map",
     "static/js/2.331282ed.chunk.js.LICENSE.txt": "/ferns-fitness/static/js/2.331282ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.76a06845.js",
     "static/js/2.331282ed.chunk.js",
-    "static/css/main.504a6195.chunk.css",
-    "static/js/main.71463999.chunk.js"
+    "static/css/main.06e0fae9.chunk.css",
+    "static/js/main.292b189f.chunk.js"
   ]
 }
